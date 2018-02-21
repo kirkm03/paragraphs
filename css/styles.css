@@ -1,0 +1,17 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+p.author {
+  width: 75%
+  font-style: italic;
+  font-weight: bold;
+}
+.bulk {
+  color: purple;
+  font-family: sans-serif;
+}
+.random {
+  color: green;
+  font-style: italic;
+}
